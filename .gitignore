@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# 暫存檔、模型
+*.mp3
+*.docx
+*.wav
+whisper-models/
